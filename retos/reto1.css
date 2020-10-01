@@ -1,0 +1,18 @@
+
+h2 {
+    text-align: center;
+}
+.col {
+    height: 100px;
+    border: 1px solid white;
+    }
+.reto1 .col {
+    background-color: darkolivegreen;
+}
+.reto2 .col {
+    background: darkkhaki;
+}
+.reto2 .col p {
+    margin-top: 45px;
+    text-align: center;
+}
